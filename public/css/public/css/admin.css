@@ -1,0 +1,32 @@
+.admin-panel {
+    background: var(--secondary-color);
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px;
+}
+
+.admin-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.admin-nav {
+    display: flex;
+    gap: 20px;
+}
+
+.admin-card {
+    background: var(--primary-color);
+    padding: 15px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+.admin-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}

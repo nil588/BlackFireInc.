@@ -42,12 +42,11 @@ Need a custom project developed? We're here to help! Whether it's a game, websit
 
 ---
 
-## Social Links
+## Social Link
 
-Stay connected with us through our social media channels:
+Stay connected with us through our Discord server:
 
-- **Twitter:** [@BlackFireInc](https://twitter.com/)
-- **Discord:** [Join our Discord](https://discord.com/invite/your-invite-link)
+- **Discord:** [Join our Discord](https://discord.gg/YGmacKw3FB)
 
 ---
 
@@ -55,8 +54,7 @@ Stay connected with us through our social media channels:
 
 Have a question or need support? Reach out to us!
 
-- **Customer Support:** [support@blackfireinc.com](mailto:support@blackfireinc.com)
-- **General Inquiries:** [info@blackfireinc.com](mailto:info@blackfireinc.com)
+- **Customer Support:** Available on our website or via Discord.
 
 ---
 
